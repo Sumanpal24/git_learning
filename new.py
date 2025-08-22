@@ -1,0 +1,1 @@
+str = "this is a new file "
